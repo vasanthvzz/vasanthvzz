@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profiles :)</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/vasanthrvz" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D03AQEnLKj7oZ_KNQ/profile-displayphoto-shrink_400_400/0/1698941114071?e=1717027200&v=beta&t=uCcRXiklRhw-2YzvF09GkLMhbLYP0GecUIuA3NIcBaU " alt="vasanthrvz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vasanthvz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="vasanthvz" height="30" width="40" /></a>
