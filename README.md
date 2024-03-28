@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/vasanthrvz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vasanthrvz" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vasanthrvz" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://www.svgrepo.com/show/305880/codechef.svg)" alt="vasanthrvz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vasanthvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasanthvz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vasanthvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasanthvz" height="30" width="40" /></a>
 </p>
